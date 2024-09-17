@@ -1,4 +1,4 @@
-package arrays
+package arrayAndRangeEtc
 
 fun main() {
     val arr : Array<Int> = arrayOf(1,2,3)

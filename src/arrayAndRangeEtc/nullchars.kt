@@ -1,4 +1,4 @@
-package arrays
+package arrayAndRangeEtc
 
 fun main() {
     val nullVar : Boolean? = null
